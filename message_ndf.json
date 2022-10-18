@@ -1,6 +1,6 @@
 {
   "ACTIF" : true,
-  "PLATEFORMES" : ["PROD","PREPROD"],
+  "PLATEFORMES" : ["PROD","PREPROD","DEV"],
   "TITRE" : "Informations",
   "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
   "BLOCK" : false,
