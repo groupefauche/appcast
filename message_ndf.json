@@ -2,7 +2,7 @@
   "TITRE" : "Informations",
   "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
   "BLOCK" : false,
-  "EXCEPTIONLOGINS" : [],
+  "EXCEPTIONLOGINS" : ["slezin@fauche.com","ybergeault@fauche.com"],
   "DATEDEB" : "2022-01-01 00:00:00",
   "DATEFIN" : "2023-01-01 00:00:00"
 }
