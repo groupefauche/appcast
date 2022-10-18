@@ -1,5 +1,6 @@
 {
-  "MESSAGE" : "Salut les musclés",
+  "TITRE" : "Informations"
+  "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
   "BLOCK" : false,
   "EXCEPTIONLOGINS" : [],
   "DATEDEB" : "2022-01-01 00:00:00",
