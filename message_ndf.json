@@ -2,7 +2,7 @@
   "ACTIF" : true,
   "PLATEFORMES" : ["PROD","PREPROD","DEV"],
   "TITRE" : "Informations",
-  "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée toto d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
+  "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
   "BLOCK" : false,
   "EXCEPTIONLOGINS" : ["slezin@fauche.com","ybergeault@fauche.com"],
   "DATEDEB" : "2022-01-01 00:00:00",
