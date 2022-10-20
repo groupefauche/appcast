@@ -2,8 +2,8 @@
   "ACTIF" : true,
   "PLATEFORMES" : ["PROD","PREPROD","DEV"],
   "TITRE" : "Informations",
-  "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée tata d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
-  "BLOCK" : false,
+  "MESSAGE" : "L'application est actuellement en cours de maintenance. Vous pourrez à nouveau l'utuliser Demain le 21/10/2022 a partir de 8h",
+  "BLOCK" : true,
   "EXCEPTIONLOGINS" : ["slezin@fauche.com","ybergeault@fauche.com"],
   "DATEDEB" : "2022-01-01 00:00:00",
   "DATEFIN" : "2022-10-20 15:45:00"
