@@ -6,7 +6,7 @@
             <title>Version 1.4.0</title>
             <description>Mise en place des app</description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.ndf" sparkle:version="1.4.1" sparkle:os="android" />
-            <enclosure url="https://apps.apple.com/us/app/notes-de-frais-by-fauch%C3%A9/id1635777890" sparkle:version="1.4.0" sparkle:os="ios" />
+            
         </item>
     </channel>
 </rss>
