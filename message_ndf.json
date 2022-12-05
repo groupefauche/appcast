@@ -2,9 +2,9 @@
   "ACTIF" : true,
   "PLATEFORMES" : ["PROD","PREPROD","DEV"],
   "TITRE" : "Informations",
-  "MESSAGE" : "L'application est actuellement en cours de maintenance. Vous pourrez à nouveau l'utiliser demain le 21/10/2022 a partir de 14h",
+  "MESSAGE" : "L'application est actuellement en cours de maintenance. Vous pourrez à nouveau l'utiliser demain le 06/12/2022",
   "BLOCK" : true,
   "EXCEPTIONLOGINS" : ["slezin@fauche.com","ybergeault@fauche.com"],
   "DATEDEB" : "2022-01-01 00:00:00",
-  "DATEFIN" : "2022-10-21 11:00:00"
+  "DATEFIN" : "2022-12-06 11:00:00"
 }
