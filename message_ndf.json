@@ -1,10 +1,10 @@
 {
   "ACTIF" : true,
-  "PLATEFORMES" : ["PROD","PREPROD","DEV"],
+  "PLATEFORMES" : ["DEV"],
   "TITRE" : "Informations",
-  "MESSAGE" : "L'application est actuellement en cours de maintenance. Vous pourrez à nouveau l'utiliser demain le 06/12/2022",
-  "BLOCK" : true,
-  "EXCEPTIONLOGINS" : ["slezin@fauche.com","ybergeault@fauche.com"],
-  "DATEDEB" : "2022-01-01 00:00:00",
-  "DATEFIN" : "2022-12-05 15:00:00"
+  "MESSAGE" : "L'application est actuellement en cours de maintenance.",
+  "BLOCK" : false,
+  "EXCEPTIONLOGINS" : ["slezin@fauche.com","apple@fauche.com"],
+  "DATEDEB" : "2023-01-01 00:00:00",
+  "DATEFIN" : "2023-01-27 11:50:00"
 }
