@@ -3,7 +3,7 @@
   "PLATEFORMES" : ["DEV"],
   "TITRE" : "Informations Absences",
   "MESSAGE" : "L'application est actuellement en cours de maintenance. Intervention de test pour secretLog",
-  "BLOCK" : true,
+  "BLOCK" : false,
   "EXCEPTIONLOGINS" : ["slezin@fauche.com","apple@fauche.com"],
   "DATEDEB" : "2023-01-25 00:00:00",
   "DATEFIN" : "2023-01-27 12:00:00"
