@@ -2,9 +2,9 @@
   "ACTIF" : true,
   "PLATEFORMES" : ["DEV"],
   "TITRE" : "Informations Absences",
-  "MESSAGE" : "L'application est actuellement en cours de maintenance. La durée d'intervention prévue est de 2h. Vous pourrez à nouveau l'utuliser ce jour à 14h.",
+  "MESSAGE" : "L'application est actuellement en cours de maintenance. Intervention de test pour secretLog",
   "BLOCK" : true,
-  "EXCEPTIONLOGINS" : ["slezin@fauche.com","ybergeault@fauche.com"],
+  "EXCEPTIONLOGINS" : ["slezin@fauche.com","apple@fauche.com"],
   "DATEDEB" : "2023-01-25 00:00:00",
   "DATEFIN" : "2023-01-27 11:30:00"
 }
