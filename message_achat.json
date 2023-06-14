@@ -1,0 +1,10 @@
+{
+  "ACTIF" : true,
+  "PLATEFORMES" : ["DEV"],
+  "TITRE" : "Informations Achat",
+  "MESSAGE" : "L'application est en phase de creation.",
+  "BLOCK" : true,
+  "EXCEPTIONLOGINS" : ["ybergeault@fauche.com","apple@fauche.com", "slezin@fauche.com"],
+  "DATEDEB" : "2023-01-25 00:00:00",
+  "DATEFIN" : "2023-12-27 15:30:00"
+}
