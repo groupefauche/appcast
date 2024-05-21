@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 0.0.1</title>
+            <description>Mise en place des app</description>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.gta" sparkle:version="0.0.1" sparkle:os="android" />
+            
+        </item>
+    </channel>
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 0.0.1</title>
+            <description>Mise en place des app</description>
+            <enclosure url="https://apps.apple.com/us/app/absences-by-fauch%C3%A9/id6449177778" sparkle:version="0.0.1" sparkle:os="ios" />
+            
+        </item>
+    </channel>
+</rss>
