@@ -4,7 +4,7 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 0.0.1</title>
-            <sparkle:version>0.0.1</sparkle:version
+            <sparkle:version>0.0.1</sparkle:version>
             <sparkle:criticalUpdate>0.0.1</sparkle:criticalUpdate>
             <sparkle:os>android</sparkle:os>
             <pubDate>Mon, 05 Oct 2015 19:20:11 +0000</pubDate>
