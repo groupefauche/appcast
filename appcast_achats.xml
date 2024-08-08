@@ -3,11 +3,11 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 0.0.1</title>
+            <title>Version 0.0.2</title>
             <sparkle:version>0.0.1</sparkle:version>
-            <sparkle:criticalUpdate>0.0.1</sparkle:criticalUpdate>
+            <sparkle:criticalUpdate sparkle:version="0.0.1"></sparkle:criticalUpdate>
             <sparkle:os>android</sparkle:os>
-            <pubDate>Mon, 05 Oct 2015 19:20:11 +0000</pubDate>
+            <pubDate>Mon, 08 août 2024 19:20:11 +0000</pubDate>
             <description>Mise en place des app</description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.achats"/>
             <sparkle:minimumAutoupdateVersion>2.0</sparkle:minimumAutoupdateVersion>
