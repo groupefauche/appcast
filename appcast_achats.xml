@@ -14,7 +14,7 @@
         <item>
             <title>Version 0.2.0</title>
             <description>Déploiement initial</description>
-            <enclosure url="mdm-ds.sfr.fr" sparkle:version="0.2.0" sparkle:os="ios" />
+            <enclosure url="mdm-ds.sfr.fr" sparkle:version="0.8.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
