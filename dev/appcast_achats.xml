@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 0.8.0</title>
+            <description>Version 0.8.0</description>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.achats" sparkle:version="0.8.0" sparkle:os="android"/>
+        </item>
+    </channel>
+     <channel>
+        <title>Debt Now App - Appcast</title>
+        <item>
+            <title>Version 0.8.0</title>
+            <description>Déploiement initial</description>
+            <enclosure url="mdm-ds.sfr.fr" sparkle:version="0.8.0" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
