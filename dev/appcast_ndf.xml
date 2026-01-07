@@ -6,7 +6,7 @@
             <title>Version 1.4.0</title>
             <description></description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.ndf" sparkle:version="1.4.0" sparkle:os="android" />
-            <forceAfter>2026-01-07T10:00:00Z</forceAfter>
+            <forceAfter>2026-01-15T10:00:00Z</forceAfter>
         </item>
     </channel>
     <channel>
