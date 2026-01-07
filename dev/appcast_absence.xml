@@ -5,19 +5,19 @@ xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.4.1</title>
+            <title>Version 0.0.0-test</title>
             <description>La connexion biométrique a été ajoutée</description>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.gta" sparkle:version="1.4.1" sparkle:os="android" />
-            <forceAfter>2026-01-05T10:00:00Z</forceAfter>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.fauche.gta" sparkle:version="0.0.0-test" sparkle:os="android" />
+            <forceAfter>2026-02-06T10:00:00Z</forceAfter>
         </item>
     </channel>
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.4.1</title>
+            <title>Version 0.0.0-test</title>
             <description>La connexion biométrique a été ajoutée</description>
-            <enclosure url="mdm-ds.sfr.fr" sparkle:version="1.4.1" sparkle:os="ios" />
-            <forceAfter>2026-01-05T10:00:00Z</forceAfter>
+            <enclosure url="mdm-ds.sfr.fr" sparkle:version="0.0.0-test" sparkle:os="ios" />
+            <forceAfter>2026-02-06T10:00:00Z</forceAfter>
         </item>
     </channel>
 </rss>
