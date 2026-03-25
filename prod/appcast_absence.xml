@@ -16,7 +16,6 @@
             <description>La connexion biométrique a été ajoutée</description>
             <enclosure url="mdm-ds.sfr.fr" sparkle:version="2.7.0" sparkle:os="ios" />
             <forceAfter>2026-04-08T10:00:00Z</forceAfter>
-            
         </item>
     </channel>
 </rss>
