@@ -14,7 +14,7 @@
         <item>
             <title>Version 0.0.0</title>
             <description>La connexion biométrique a été ajoutée</description>
-            <enclosure url="mdm-ds.sfr.fr" sparkle:version="2.9.0" sparkle:os="ios" />
+            <enclosure url="mdm-ds.sfr.fr" sparkle:version="0.0.0" sparkle:os="ios" />
             <forceAfter>2026-06-03T10:00:00Z</forceAfter>
         </item>
     </channel>
